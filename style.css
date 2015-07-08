@@ -1,0 +1,43 @@
+html{
+overflow: hidden;
+height: 100%;
+width: 100%;
+}
+
+body{
+height: 100%;
+width: 100%;
+}
+
+body, div, p, blockquote, ol, ul, dl, li, dt, dd, td {
+font-family: Verdana, Arial, sans-serif;
+font-size: 32px;
+font-weight: 400;
+color: #FFFFFF;
+background-color: #000000;
+}
+
+.container{
+position: relative;
+height: 100%;
+text-align: center;
+}
+
+.javaApp{
+border: 0;
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+margin: auto;
+}
+
+.text{
+opacity:0;
+text-align: center;
+vertical-align: text-middle;
+position: absolute;
+width:100%;
+background:rgba(255,255,255,0.0);
+}
