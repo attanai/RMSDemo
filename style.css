@@ -25,6 +25,8 @@ text-align: center;
 .javaApp{
 border: 0;
 position: absolute;
+height:480;
+width:640;
 top: 0;
 bottom: 0;
 left: 0;
