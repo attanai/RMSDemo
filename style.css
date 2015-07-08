@@ -13,7 +13,7 @@ text-align: center;
 
 #javaApp{
 border: 0;
-position: absolute;
+position: relative;
 height:480;
 width:640;
 top: 0;
@@ -31,7 +31,7 @@ background:rgba(255,255,255,0.0);
 
 #textInner{
 border: 0;
-position: absolute;
+position: relative;
 top: 0;
 bottom: 0;
 left: 0;
