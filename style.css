@@ -9,11 +9,12 @@ background-color: #000000;
 #container{
 position: relative;
 text-align: center;
+width=100%;
 }
 
 #javaApp{
 border: 0;
-position: relative;
+position: absolute;
 height:480;
 width:640;
 top: 0;
