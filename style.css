@@ -6,12 +6,12 @@ color: #FFFFFF;
 background-color: #000000;
 }
 
-.container{
+#container{
 position: relative;
 text-align: center;
 }
 
-.javaApp{
+#javaApp{
 border: 0;
 position: relative;
 height:480;
@@ -23,8 +23,15 @@ right: 0;
 margin: auto;
 }
 
-.textInner{
-  border: 0;
+#text{
+text-align: center;
+position: relative;
+width:80%;
+background:rgba(255,255,255,0.0);
+}
+
+#textInner{
+border: 0;
 position: absolute;
 top: 0;
 bottom: 0;
@@ -33,9 +40,3 @@ right: 0;
 margin: auto;
 }
 
-.text{
-text-align: center;
-position: relative;
-width:80%;
-background:rgba(255,255,255,0.0);
-}
