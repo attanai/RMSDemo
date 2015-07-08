@@ -14,7 +14,7 @@ width=100%;
 
 #javaApp{
 border: 0;
-position: absolute;
+position: relative;
 height:480;
 width:640;
 top: 0;
